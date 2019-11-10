@@ -1,0 +1,16 @@
+/*
+.*
+!/bin/
+!/etc/
+!/ico/
+!/src/
+!/usr/
+!/.gitattributes
+!/.gitignore
+!/Console.lnk
+!/license.console
+!/license.mintty
+!/license.wslbridge2
+!/readme.md
+!/register.cmd
+!/Terminal.lnk

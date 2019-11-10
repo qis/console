@@ -9,6 +9,7 @@
 !/.gitignore
 !/Console.lnk
 !/license.console
+!/license.fonts
 !/license.mintty
 !/license.wslbridge2
 !/readme.md

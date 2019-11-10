@@ -2,7 +2,7 @@ Locale=C
 Charset=UTF-8
 
 BoldAsFont=yes
-Font=DejaVuSansMono NF
+Font=DejaVu LGC Sans Mono
 FontHeight=9
 CursorType=underscore
 RightClickAction=paste

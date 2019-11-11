@@ -1,3 +1,2 @@
 *      text=lf
-*.rc   text eol=crlf
 *.cmd  text eol=crlf

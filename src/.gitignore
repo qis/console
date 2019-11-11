@@ -1,7 +1,8 @@
 /*
 .*
 !/.gitignore
+!/clear.cpp
 !/CMakeLists.txt
 !/CMakeSettings.json
+!/common.manifest
 !/console.cpp
-!/console.manifest

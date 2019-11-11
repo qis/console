@@ -8,8 +8,9 @@
 !/.gitattributes
 !/.gitignore
 !/Console.lnk
+!/default.cmd
 !/license.console
-!/license.fonts
+!/license.dejavu
 !/license.mintty
 !/license.wslbridge2
 !/readme.md

@@ -38,7 +38,7 @@ extern "C" int main() {
   }
   memcpy(icon + size - 15, L"Console.lnk\0", 24);
 
-  WCHAR file[] = LR"(C:\Windows\System32\cmd.exe /k "prompt $e[32m%USERNAME%$e[0m@$e[32m%COMPUTERNAME%$e[0m $e[34m$p$e[0m$s")";
+  WCHAR file[] = LR"(C:\Windows\System32\cmd.exe /k cls)";
 
   STARTUPINFO si = {};
   si.cb = sizeof(si);

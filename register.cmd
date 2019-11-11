@@ -17,7 +17,7 @@ reg add "%shell%\x-console\command" /ve /d "%consolecmd%" /f
 
 set terminaltxt=Open in Terminal
 set terminalico=%~dp0ico\terminal.ico
-set terminalcmd=\"%~dp0bin\mintty.exe\" --WSL=\"Ubuntu\" --icon=\"%~dp0ico\terminal.ico\" --configdir=\"%~dp0etc\" -t \"Terminal\" -
+set terminalcmd=\"%~dp0bin\mintty.exe\" --WSL --icon=\"%~dp0ico\terminal.ico\" --configdir=\"%~dp0etc\" -t \"Terminal\" -
 
 reg add "%shell%\x-terminal" /ve /d "%terminaltxt%" /f
 reg add "%shell%\x-terminal" /v Icon /d "%terminalico%" /f

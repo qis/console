@@ -18,3 +18,6 @@ $e[32m%USERNAME%$e[0m@$e[32m%COMPUTERNAME%$e[0m$s$e[34m$p$e[0m$s
 ```
 
 NOTE: Either replace `%USERNAME%` in this string or set the environment variable `USERNAME`.
+
+## Screenshot
+![Screenshot](src/screenshot.png)

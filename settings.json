@@ -84,6 +84,10 @@
   // https://aka.ms/terminal-keybindings
   "keybindings": [
     { "command": "openSettings", "keys": [ "ctrl+," ] },
+    { "command": "scrollUp", "keys": "shift+up" },
+    { "command": "scrollDown", "keys": "shift+down" },
+    { "command": "scrollUpPage", "keys": "shift+pageup" },
+    { "command": "scrollDownPage", "keys": "shift+pagedown" },
     { "command": "splitPane", "keys": [ "ctrl+shift+up" ] },
     { "command": "closePane", "keys": [ "ctrl+shift+down" ] }
   ]

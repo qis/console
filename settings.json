@@ -27,30 +27,19 @@
     },
     "list": [
       {
-        "hidden": false,
         "name": "Console",
         "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-        "icon": "C:\\Program Files\\Console\\ico\\console.ico",
         "commandline": "cmd.exe"
       },
       {
-        "hidden": false,
         "name": "Terminal",
-        "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
-        "icon": "C:\\Program Files\\Console\\ico\\terminal.ico",
+        "guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
         "source": "Windows.Terminal.Wsl"
       },
       {
-        "hidden": true,
         "name": "PowerShell",
         "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
         "commandline": "powershell.exe"
-      },
-      {
-        "hidden": true,
-        "name": "Azure Shell",
-        "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
-        "source": "Windows.Terminal.Azure"
       }
     ]
   },

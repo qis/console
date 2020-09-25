@@ -6,10 +6,10 @@
 
   "copyOnSelect": true,
   "copyFormatting": true,
-  "showTabsInTitlebar": false,
+  "showTabsInTitlebar": true,
   "showTerminalTitleInTitlebar": true,
   "multiLinePasteWarning": false,
-  "alwaysShowTabs": false,
+  "alwaysShowTabs": true,
   "initialCols": 150,
   "initialRows": 45,
 
@@ -30,12 +30,14 @@
       {
         "name": "Console",
         "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+        "icon": "C:\\Program Files\\Console\\ico\\console.ico",
         "commandline": "cmd.exe",
         "hidden": false
       },
       {
         "name": "Terminal",
         "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
+        "icon": "C:\\Program Files\\Console\\ico\\terminal.ico",
         "source": "Windows.Terminal.Wsl",
         "hidden": false
       },

@@ -6,10 +6,10 @@
 
   "copyOnSelect": true,
   "copyFormatting": true,
-  "showTabsInTitlebar": true,
+  "showTabsInTitlebar": false,
   "showTerminalTitleInTitlebar": true,
   "multiLinePasteWarning": false,
-  "alwaysShowTabs": true,
+  "alwaysShowTabs": false,
   "initialCols": 150,
   "initialRows": 45,
 

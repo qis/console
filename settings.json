@@ -6,10 +6,10 @@
 
   "copyOnSelect": true,
   "copyFormatting": true,
-  "alwaysShowTabs": false,
   "showTabsInTitlebar": false,
   "showTerminalTitleInTitlebar": true,
   "multiLinePasteWarning": false,
+  "alwaysShowTabs": false,
   "initialCols": 150,
   "initialRows": 45,
 
@@ -108,6 +108,10 @@
     { "command": "scrollDown", "keys": "shift+down" },
     { "command": "scrollUpPage", "keys": "shift+pageup" },
     { "command": "scrollDownPage", "keys": "shift+pagedown" },
+
+    // Window
+    { "command": "toggleFullscreen", "keys": "f11" },
+    { "command": "toggleFocusMode", "keys": "f12" },
 
     // Tabs
     { "command": "openNewTabDropdown", "keys": "ctrl+shift+space" },

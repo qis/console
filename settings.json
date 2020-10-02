@@ -23,7 +23,7 @@
       "acrylicOpacity": 1,
       "colorScheme": "default",
       "cursorShape": "vintage",
-      "closeOnExit": true,
+      "closeOnExit": "always",
       "cursorHeight": 25
     },
     "list": [
